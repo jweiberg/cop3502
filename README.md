@@ -19,6 +19,8 @@ Table of Contents
 ------------------
 
 1. [Additional Resources](#additional-resources)
+2. [Windows Binary](#windows-binary)
+3. [Compile From Source](#compile-from-source)
 
 
 Additional Resources
@@ -27,5 +29,21 @@ Additional Resources
 - Forums: http://www.wildfiregames.com/forum/
 - Wiki: http://trac.wildfiregames.com/wiki/
 - Trac (development info, bug tracker): http://trac.wildfiregames.com/
-- IRC: #0ad on irc.quakenet.org
 - Additional documentation: [docs/](docs/)
+- IRC: #0ad on irc.quakenet.org
+
+
+Windows Binary
+----------------------
+Open the "binaries\system" folder.
+
+To launch the game: Run pyrogenesis.exe
+
+To launch the map editor: Run Atlas.bat or "pyrogenesis.exe -editor"
+
+
+Compile From Source
+----------------------
+The instructions for compiling the game on Windows, Linux and OS X are at:
+
+http://trac.wildfiregames.com/wiki/BuildInstructions
