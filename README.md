@@ -15,13 +15,15 @@ towards completion and to share the interesting experience of developing a
 project of this scope.
 
 
-Table of Contents
+Table Of Contents
 ------------------
 
 1. [Additional Resources](#additional-resources)
 2. [Windows Binary](#windows-binary)
 3. [Compile From Source](#compile-from-source)
-
+4. [Reporting Problems](#reporting-problems)
+5. [Contribute Code](#contribute-code)
+6. [Contribute Artwork](#contribute-artwork)
 
 Additional Resources
 ----------------------
@@ -47,3 +49,41 @@ Compile From Source
 The instructions for compiling the game on Windows, Linux and OS X are at:
 
 http://trac.wildfiregames.com/wiki/BuildInstructions
+
+
+Reporting Problems
+----------------------
+Bugs should be reported on Trac. For information on reporting problems and finding logs visit:
+
+http://trac.wildfiregames.com/wiki/ReportingErrors
+
+
+Contribute Code
+----------------------
+If you want to help with programming for the game please visit:
+
+https://trac.wildfiregames.com/wiki/GettingStartedProgrammers
+
+You may also contact us at: #0ad-dev on irc.quakenet.org
+
+
+Contribute Artwork
+----------------------
+If you want to make artwork for the game, please visit one of the following links:
+
+https://trac.wildfiregames.com/#Forartists:
+
+http://www.wildfiregames.com/forum
+
+
+Translations
+----------------------
+0 A.D. currently has complete translations for Chinese, Chinese (Taiwan), Italian, Korean and Asturian.
+We have near complete translations for Dutch, Portuguese (Portugal), Swedish, German, French, Finnish, Spanish, Indonesian, Russian, English, 
+Turkish, Czech and Polish. 
+
+If you would like to contribute to our translations please visit one of the following links:
+
+https://explore.transifex.com/wildfire-games/0ad/
+
+https://trac.wildfiregames.com/wiki/Localization
