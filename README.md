@@ -28,3 +28,4 @@ Additional Resources
 - Wiki: http://trac.wildfiregames.com/wiki/
 - Trac (development info, bug tracker): http://trac.wildfiregames.com/
 - IRC: #0ad on irc.quakenet.org
+- Additional documentation: [docs/](docs/)
