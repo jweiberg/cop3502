@@ -54,13 +54,13 @@ The instructions for compiling the game on Windows, Linux and OS X are at:
 
 http://trac.wildfiregames.com/wiki/BuildInstructions
 
+<i>Note: Windows 7 or higher and OSX 10.13 or higher are required.</i>
+
 
 Default Controls
 ----------------------
-The default controls for 0 A.D. are similar to most real-time strategy games. You may adjust some of these bindings in settings.
-For a complete list of hot keys visit:
+The default controls for 0 A.D. are similar to most real-time strategy games.
 
-https://trac.wildfiregames.com/wiki/HotKeys
 
 | Button                        | Action                                                         |
 |-------------------------------|----------------------------------------------------------------|
