@@ -17,12 +17,13 @@ project of this scope.
 Table of Contents
 ------------------
 
-1. [Further Documentation](#further-documentation)
+1. [Additional Resources](#additional-resources)
 
 
-Further documentation
+Additional Resources
 ----------------------
 - Website: https://play0ad.com/
 - Forums: http://www.wildfiregames.com/forum/
+- Wiki: http://trac.wildfiregames.com/wiki/
 - Trac (development info, bug tracker): http://trac.wildfiregames.com/
 - IRC: #0ad on irc.quakenet.org
