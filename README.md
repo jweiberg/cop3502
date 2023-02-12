@@ -65,13 +65,12 @@ https://trac.wildfiregames.com/wiki/HotKeys
 | Button                        | Action                                                         |
 |-------------------------------|----------------------------------------------------------------|
 | Left Click                    | Select an object such as a building or military unit           |
-| Right Click                   | Initiates tasks like commanding a unit to walk or attack       |
+| Right Click                   | Initiate tasks like commanding a unit to walk or attack	 |
 | W	                        | Move the camera forward				         |
 | A	                        | Move the camera left					         |
 | S	                        | Move the camera backward				         |
 | D	                        | Move the camera right					         |
 | Q	                        | Rotate the camera left					 |
-| E	                        | Rotate the camera right					 |
 | E	                        | Rotate the camera right					 |
 | =	                        | Zoom the camera in						 |
 | -	                        | Zoom the camera out						 |
