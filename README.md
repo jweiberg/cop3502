@@ -8,6 +8,8 @@
 0 A.D. (pronounced "zero ey-dee") is a free, open-source, cross-platform
 real-time strategy game of ancient warfare. As the leader of an ancient civilization, 
 you must gather the resources you need to raise a military force and dominate your enemies.
+Ultimately, you will send off your army to battle in an attempt to destroy all your enemies’ structures 
+that can generate units, and all units that can construct buildings. The first player that achieves this goal wins.
 
 This is currently an incomplete, under-development version of the game.
 We're always interested in getting more people involved, to help bring the game
@@ -70,7 +72,7 @@ You may also contact us at: #0ad-dev on irc.quakenet.org
 
 Contribute Artwork
 ----------------------
-If you want to make artwork for the game, please visit one of the following links:
+If you want to make artwork for the game please visit one of the following links:
 
 [https://trac.wildfiregames.com/#Forartists:](https://trac.wildfiregames.com/#Forartists:)
 
