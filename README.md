@@ -72,7 +72,7 @@ Contribute Artwork
 ----------------------
 If you want to make artwork for the game, please visit one of the following links:
 
-https://trac.wildfiregames.com/#Forartists:
+[https://trac.wildfiregames.com/#Forartists:](https://trac.wildfiregames.com/#Forartists:)
 
 http://www.wildfiregames.com/forum
 
