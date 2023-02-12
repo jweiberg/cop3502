@@ -24,6 +24,7 @@ Table Of Contents
 4. [Reporting Problems](#reporting-problems)
 5. [Contribute Code](#contribute-code)
 6. [Contribute Artwork](#contribute-artwork)
+7. [Translations](#translations)
 
 Additional Resources
 ----------------------
@@ -79,7 +80,7 @@ http://www.wildfiregames.com/forum
 Translations
 ----------------------
 0 A.D. currently has complete translations for Chinese, Chinese (Taiwan), Italian, Korean and Asturian.
-We have near complete translations for Dutch, Portuguese (Portugal), Swedish, German, French, Finnish, Spanish, Indonesian, Russian, English, 
+We have near complete translations, 96% or greater, for Dutch, Portuguese (Portugal), Swedish, German, French, Finnish, Spanish, Indonesian, Russian, English, 
 Turkish, Czech and Polish. 
 
 If you would like to contribute to our translations please visit one of the following links:
