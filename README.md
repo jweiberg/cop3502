@@ -23,10 +23,11 @@ Table Of Contents
 1. [Additional Resources](#additional-resources)
 2. [Windows Binary](#windows-binary)
 3. [Compile From Source](#compile-from-source)
-4. [Reporting Problems](#reporting-problems)
-5. [Contribute Code](#contribute-code)
-6. [Contribute Artwork](#contribute-artwork)
-7. [Translations](#translations)
+4. [Default Controls](#default-controls)
+5. [Reporting Problems](#reporting-problems)
+6. [Contribute Code](#contribute-code)
+7. [Contribute Artwork](#contribute-artwork)
+8. [Translations](#translations)
 
 Additional Resources
 ----------------------
@@ -52,6 +53,28 @@ Compile From Source
 The instructions for compiling the game on Windows, Linux and OS X are at:
 
 http://trac.wildfiregames.com/wiki/BuildInstructions
+
+
+Default Controls
+----------------------
+The default controls for 0 A.D. are similar to most real-time strategy games. You may adjust some of these bindings in settings.
+For a complete list of hot keys visit:
+
+https://trac.wildfiregames.com/wiki/HotKeys
+
+| Button                        | Action                                                         |
+|-------------------------------|----------------------------------------------------------------|
+| Left Click                    | Select an object such as a building or military unit           |
+| Right Click                   | Initiates tasks like commanding a unit to walk or attack       |
+| W	                        | Move the camera forward				         |
+| A	                        | Move the camera left					         |
+| S	                        | Move the camera backward				         |
+| D	                        | Move the camera right					         |
+| Q	                        | Rotate the camera left					 |
+| E	                        | Rotate the camera right					 |
+| E	                        | Rotate the camera right					 |
+| =	                        | Zoom the camera in						 |
+| -	                        | Zoom the camera out						 |
 
 
 Reporting Problems
