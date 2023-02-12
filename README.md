@@ -32,8 +32,9 @@ Table Of Contents
 Additional Resources
 ----------------------
 - Website: https://play0ad.com/
-- Forums: http://www.wildfiregames.com/forum/
+- Forum: http://www.wildfiregames.com/forum/
 - Wiki: http://trac.wildfiregames.com/wiki/
+- YouTube: https://www.youtube.com/user/play0ad
 - Trac (development info, bug tracker): http://trac.wildfiregames.com/
 - Additional documentation: [docs/](docs/)
 - IRC: #0ad on irc.quakenet.org
