@@ -87,7 +87,7 @@ Cache and logs: %LocalAppData%\0ad\
 
 User config and user data: %AppData%\0ad\
 
-<b>MacOS</b>
+<b>macOS</b>
 
 Saved games, mods, screenshots, logs and user config: Users/{YOUR USERNAME}/Library/Application\ Support/0ad/
 
