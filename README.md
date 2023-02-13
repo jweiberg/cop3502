@@ -81,12 +81,25 @@ Game Paths
 ----------------------
 <b>Windows</b>
 
-Saved games, mods, screenshots and saved games: %UserProfile%\documents\my games\0ad\
+Saved games, mods, screenshots and replays: %UserProfile%\documents\my games\0ad\
 
 Cache and logs: %LocalAppData%\0ad\
 
-User configuration and user data: %AppData%\0ad\
+User config and user data: %AppData%\0ad\
 
+<b>Mac OSX</b>
+
+Saved games, mods, screenshots, logs and user config: Users/{YOUR USERNAME}/Library/Application\ Support/0ad/
+
+Cache: /Users/{YOUR USERNAME}/Library/Caches/0ad/
+
+<b>Linux</b>
+
+Saved games, screenshots and replays: ~/.local/share/0ad/
+
+User config and logs: ~/.config/0ad/
+
+Cache: ~/.cache/0ad/
 
 
 Reporting Problems
