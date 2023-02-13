@@ -19,15 +19,15 @@ project of this scope.
 
 Table Of Contents
 ------------------
-
 1. [Additional Resources](#additional-resources)
 2. [Windows Binary](#windows-binary)
 3. [Compile From Source](#compile-from-source)
 4. [Default Controls](#default-controls)
-5. [Reporting Problems](#reporting-problems)
-6. [Contribute Code](#contribute-code)
-7. [Contribute Artwork](#contribute-artwork)
-8. [Translations](#translations)
+5. [Game Paths](#game-paths)
+6. [Reporting Problems](#reporting-problems)
+7. [Contribute Code](#contribute-code)
+8. [Contribute Artwork](#contribute-artwork)
+9. [Translations](#translations)
 
 Additional Resources
 ----------------------
@@ -75,6 +75,18 @@ The default controls for 0 A.D. are similar to most real-time strategy games.
 | E	                        | Rotate the camera right					 |
 | =	                        | Zoom the camera in						 |
 | -	                        | Zoom the camera out						 |
+
+
+Game Paths
+----------------------
+<b>Windows</b>
+
+Saved games, mods, screenshots and saved games: %UserProfile%\documents\my games\0ad\
+
+Cache and logs: %LocalAppData%\0ad\
+
+User configuration and user data: %AppData%\0ad\
+
 
 
 Reporting Problems
